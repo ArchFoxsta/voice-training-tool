@@ -1,0 +1,16 @@
+Todo:
+    Major:
+        1 - Pitch
+        2 - Resonance
+        3 - Formants
+        4 - Intonation
+        5 - Timbre
+        6 - Word patterns
+    Minor:
+        1 - ...
+
+1 - I'm going to start off small. So lets focus on the first goal of getting pitch
+    A - Detect voice via mic input
+    B - Track pitch in real time
+    C - Print current pitch
+    D - Live plot
